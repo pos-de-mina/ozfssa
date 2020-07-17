@@ -16,6 +16,6 @@ omd restart
 
 ### U S A G E
 ```
-su -monps[00-99]
+su - monps[00-99]
 ~/share/check_mk/agents/special/agent_ozfssa <zfs host> <zfs user> <zfs password>
 ```
