@@ -1,5 +1,5 @@
 # ozfssa
-Oracle ZFS Storage Appliance - Monitoring with Check_MK/Nagios via REST API
+Oracle ZFS Storage Appliance - Monitoring with Check_MK via REST API
 
 ## R E F
   - https://docs.oracle.com/cd/E71909_01/html/E71922/index.html
